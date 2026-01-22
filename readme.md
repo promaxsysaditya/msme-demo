@@ -1,1 +1,1 @@
-Sale Forecasting Demo
+Sales Forecasting Demo
